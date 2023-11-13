@@ -11,12 +11,12 @@ First, I need to examine the data to make sure its as fair as possible so theres
 Below are some sample images.
 
 This is an image of how the many of each data there are for each category:
-![alt text](https://github.com/ryrichard/InsurancePrediction/origin/images/TotalDataFromEachCategory.png?raw=true)
+<img src="images/TotalDataFromEachCategory.png" alt="Total data from each category" width="700"/>
 
 This is an image that shows the data is skewed towards younger people.
-![alt text](https://github.com/ryrichard/InsurancePrediction/origin/images/TotalPeopleForEachAge.png?raw=true)
+<img src="images/TotalPeopleForEachAge.png" alt="Total People For Each Age.png" width="700"/>
 
 This is an image that shows that smokers that has a noticable correlation to charges
-![alt text](https://github.com/ryrichard/InsurancePrediction/origin/images/PairPlotForSmokers.png?raw=true)
+<img src="images/PairPlotForSmokers.png" alt="Pair Plot For Smokers.png" width="700"/>
 
 TBC
